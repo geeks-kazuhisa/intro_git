@@ -4,3 +4,4 @@ eeeeeooooo
 
 .git add
 .git commit
+.git remove
